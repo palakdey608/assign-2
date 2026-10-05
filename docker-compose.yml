@@ -1,3 +1,5 @@
+name: assign-2
+
 services:
   web:
     build: .
